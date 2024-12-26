@@ -1,3 +1,4 @@
 # Christmas Tree
 
-My version of the $t \sin(t)$ christmas tree
+My simple version of the $t \sin(t)$ christmas tree, inpired by [atree](https://github.com/anvaka/atree).
+
